@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+}
+
+.bighead {
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.home_img{
+    height: 100px;
+    width: auto;
+}
+
+.shortnote{
+
+}
+
+.bpoint{
+
+}
